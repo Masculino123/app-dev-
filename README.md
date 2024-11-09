@@ -12,6 +12,6 @@ My first repository
 3. Jollibee
 
 *My Hobbies*
-- Basketball
-- Billiards
-- Unwind
+1. Basketball
+2. Billiards
+3. Unwind
