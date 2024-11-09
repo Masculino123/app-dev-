@@ -9,6 +9,6 @@ My first repository
 3. Jollibee
 
 *My Hobbies*
-1.Basketball
-2. Billiards
-3.Unwind
+- Basketball
+- Billiards
+- Unwind
