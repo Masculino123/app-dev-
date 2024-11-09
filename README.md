@@ -3,7 +3,7 @@ My first repository
 # Brandon Masculino
 
 '👋 Hi, I’m @laeze211'
-'👀 My course is BS Information Technology'
+'👀 BS Information Technology Student'
 ---------------------
 *My Favorite Food*
 1. Adobo
