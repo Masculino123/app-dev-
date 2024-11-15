@@ -1,5 +1,5 @@
 # app-dev-
-Masculino ka.
+
 # Brandon Masculino
 
 - 👋 Hi, I’m @laeze211
